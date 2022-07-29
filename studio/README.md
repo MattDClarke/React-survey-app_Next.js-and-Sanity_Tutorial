@@ -1,4 +1,4 @@
-# Sanity Survey Content Studio
+# Sanity Content Studio for survey data
 
 ## Getting started
 
